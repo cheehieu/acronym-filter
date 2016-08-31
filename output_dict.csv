@@ -1,0 +1,379 @@
+A-W,
+AAA,Air Avionics Assembly
+ABORT,
+AC,Alternating Current
+ACBM,Active Common Berthing Mechanism
+ACCESS,
+ACGIH,American Conference of Governmental Industrial Hygienists
+AE,Approach Ellipsoid
+AES,Advanced Encryption Standard
+AI,Approach Initiation
+ALARA,As Low As Reasonably Achievable
+ALARM,
+AM,Axiom Module
+AND,
+ANSI,American National Standards Institute
+ANTENNA,
+AOS,Acquisition of Signal
+API,Application Programming Interface
+AT,
+ATK,Alliant Techsystems
+ATOMIC,
+ATU,Audio Terminal Units
+AUDIO,
+AXIOM,
+B.0,
+BA,
+BEI,Biological Exposure Indices
+BER,Bit Error Rate
+BERTHED,
+BF,
+BOARDS,
+BONDING,
+BUS,
+BW,
+Base-TX,
+C&W,Caution and Warning
+C.G,
+C2V2,Common Communications for Visiting Vehicles
+C95.1,
+CABLE,
+CASE,
+CAUTION,
+CBCS,Centerline Berthing Camera System
+CBM,Common Berthing Mechanism
+CF,
+CG,Center of Gravity
+CIRCUIT,
+CLOSE,
+CMG,Control Moment Gyro
+CO2,
+COAS,Crew Optical Alignment Sight
+COATING,
+CODE,
+CODING,
+COMMAND,
+COMMON,
+COMSEC,Communications Security
+CONTROL,
+CORONA,
+COTS,Commercial Orbital Transportation Services
+CPU,Central Processing Unit
+CREW,
+CUES,
+CURRENT,
+Clean-S,
+DAC1,Design Analysis Cycle 1
+DATA,
+DC,Direct Current
+DCS,Decompression Sickness
+DDCU,DC-to-DC Converter Unit
+DELETE,
+DES,
+DESIGN,
+DOCKED,
+DOCKING,
+DOSE,
+DRM,Design Reference Mission
+DS-101,
+DS-102,
+DURING,
+E+21,
+E-5,
+E-8,
+ECG,Electrocardiogram
+ECLSS,Environmental Control and Life Support System
+EEE,"Electrical, Electronic, and Electromechanical"
+ELEMENT,
+EMI,Electromagnetic Interference
+EMU,Extravehicular Mobility Unit
+EOL,End of Life
+EPCE,Electrical Power Consuming Equipment
+ESA,European Space Agency
+ESD,Electrostatic Discharge
+EVA,Extravehicular Activity
+EXCEED,
+EXPRESS,
+EXTREME,
+FAULT,
+FEEDS,
+FIBER,
+FIPS,Federal Information Processing Standards
+FM,Frequency Modulation
+FOR,
+FORMAT,
+FRGF,Flight-Releasable Grapple Fixture
+FROM,
+FSE,Flight Support Equipment
+GCR,Galactic Cosmic Ray
+GF,Grapple Fixture
+GFE,Government Furnished Equipment
+GH,
+GN&C,Guidance Navigation and Control
+GNC,Guidance Navigation and Control
+GPS,Global Positioning System
+GROUND,
+H2O,Water
+HEAT,
+HIDH,Human Integration Design Handbook
+HIGH,
+Hz-m2,Hertz-Meters-Squared
+I96,
+ICD,Interface Control Document
+IDA,International Docking Adapter
+IEC,International Electrotechnical Commission
+IEEE,Institute of Electrical and Electronics Engineers
+II,
+IMPULSE,
+IMV,Intermodule Ventilation
+IN,
+INDUCED,
+INHIBIT,
+INPUT,
+INT,Internal
+IP,Internet Protocol
+IRD,Interface Requirements Document
+IS,
+ISO,International Standards Organization
+ISPR,ISS Standard Payload Rack
+ISS,International Space Station
+ISS-A,
+ISS-N,
+ISSUED,
+ITCS,Internal Thermal Control System
+IVA,Intravehicular Activity
+IVM,
+IoT,Internet of Things
+JEM-EF,Japanese Experiment Module Exposed Facility
+JSC,Johnson Space Center
+JSL,Joint Station LAN
+KOS,Keep-Out Sphere
+Ku-B,
+LAN,Local Area Network
+LB,Local Bus
+LEE,Latching End Effector
+LENGTH,
+LEVEL,
+LEVELS,
+LIMIT,
+LIMITS,
+LINEAR,
+LINK,
+LN,
+LOAD,
+LOADS,
+LOC,Loss of Crew
+LOCAL,
+LOM,Loss of Mission
+LOS,Loss of Signal
+LOSS,
+LPCM,Linear Pulse Code Modulation
+LS,
+LT,
+LTL,Low Temperature Loop
+LV,Launch Vehicle
+LVLH,Local Vertical Local Horizontal
+LiOH,Lithium Hydroxide
+Lloyd-S,
+Low-F,
+MATING,
+MBS,Mobile Base System
+MBSU,Main Bus Switching Unit
+MBSU-1A,
+MBSU-3B,
+MCA,Major Constituent Analyzer
+MCC,Mission Control Center
+MCC-H,MCC-Houston
+MDM,Multiplexer/Demultiplexer
+MDP,Maximum Design Pressure
+MEDIUM,
+MEM,Meteoroid Engineering Model
+MH,
+MIL-STD,Defense Standard
+MLE,Mid-deck Locker Equivalent
+MM,Micro-Meteoroid
+MMOD,Micro-Meteoroid and Orbital Debris
+MODE,
+MODULE,
+MSS,Mobile Servicing System
+MTL,Medium Temperature Loop
+MUA,Materials Usage Agreement
+Meg-O,
+Micro-M,
+MicroM,
+NASA,National Aeronautics and Space Administration
+NC,Noise Criterion
+NC-40,
+NDS,NASA Docking System
+NIST,National Institute of Standards and Technology 
+NO,
+NODE,
+NOISE,
+NOMINAL,
+NOT,
+NOTE,
+NPDWR,National Primary Drinking Water Regulations
+NRFC,
+NSA,National Security Agency
+NSPARS,Nonstandard Part Approval Request
+Node.2,
+Node2,
+Non-I,
+O2,
+OD,Orbital Debris
+OF,
+OFF,
+OLR,Outgoing Long Wave Radiation
+ON,
+OPTICAL,
+OPTICS,
+ORB,Orbital
+ORB1,
+ORB2,
+ORDEM,Orbital Debris Engineering Model
+ORU,Orbital Replacement Unit
+OTHER,
+OUTPUT,
+OXYGEN,
+On-O,
+One-T,
+PARTS,
+PASSIVE,
+PBA,Portable Breathing Apparatus
+PCBM,Passive Common Berthing Mechanism
+PCM,Pulse Code Modulation
+PCS,Portable Computer System
+PDGF,Power Data Grapple Fixture
+PEL,Permissible Exposure Limits
+PFD,Power Flux Density
+PLASMA,
+PLR,Packet Loss Rate
+PMA,Pressurized Mating Adapter
+PMA2,
+PMA3,
+PMM,Permanent Multipurpose Module
+PNP,Probability of No Penetration
+POA,Payload Orbital replacement unit Accommodation
+POL,Point of Load
+POWER,
+PP,
+PRINTED,
+PROVIDE,
+PTCS,Passive Thermal Control System
+PUB,
+PULSE,
+PV,Photovoltaic
+PVGF,Power and Video Grapple Fixture
+QUALITY,
+R&R,Repair & Replace
+R-116,
+R-14,
+R-508A,
+R-508B,
+RADIO,
+RATING,
+RCS,Reaction Control System
+RE-USE,
+RECEIVE,
+REF,Reference
+REID,Risk of Exposure-Induced Death
+REMOTE,
+REMOVAL,
+REV,Revision
+RF,Radio Frequency
+RH,Relative Humidity
+RMS,Root Mean Square
+RPCM,Remote Power Control Module
+RPOC,"Rendezvous, Proximity Operations and Capture"
+RPODU,"Rendezvous, Proximity Operations, Docking, and Undocking"
+RSS,Root-Sum-Square
+Radio-F,
+S-B,
+S20.20,
+SAS,Space Adaptation Syndrome
+SCC,Space Components Coordination
+SCFM,Standard Cubic Feet per Minute
+SEE,Single Event Effects
+SEG,
+SEL,Single Event Latchup
+SEU,Single Event Upset
+SI,International System of Units
+SIGNAL,
+SILVER,
+SM,Service Module
+SMAC,Spacecraft Maximum Allowable Concentrations
+SN,
+SOLAR,
+SOUND,
+SP,
+SPACE,
+SPDM,Special Purpose Dexterous Manipulator
+SPE,Solar Particle Effect
+SPECTRA,
+SPL,Sound Pressure Level
+SRS,Shock Response Spectrum
+SSP,Space Station Program
+SSQ,
+SSRMS,Space Station Remote Manipulator System
+SSSR,Space to Space Station Radio
+STAKING,
+STATION,
+STUB,
+SUPPORT,
+SW,Software
+SYSTEM,
+Stay-O,
+TBD,To Be Determined
+TBR,To Be Resolved
+TBS,To Be Supplied
+TCCS,Trace Contaminant Control Subassembly
+TCP,Transmission Control Protocol
+TCS,Thermal Control System
+TDMA,Time Division Multiple Access
+TH,
+THE,
+THERMAL,
+THIS,
+TIME,
+TIU,Terminal Interface Unit
+TLV,Threshold Limit Value
+TO,
+TOTAL,
+TR,
+TRRJ,Thermal Radiator Rotary Joint
+U.S,United States
+UDP,User Datagram Protocol
+UHF,Ultra High Frequency
+ULTRA,
+UNIT,
+UNITS,
+UPON,
+USE,
+USOS,United States on Orbit Segment
+UV,Ultra Violet
+Un-C,
+V2,
+VDC,Volts Direct Current
+VEHICLE,
+VI,
+VM,Virtual Machine
+VOLTAGE,
+VSWR,Voltage Standing Wave Radio
+VUV,Very Ultra Violet
+VV,Visiting Vehicle
+Vibro-A,
+WARNING,
+WINDOWS,
+WIRE,
+WIRING,
+WITH,
+WITHOUT,
+WRAPPED,
+WRS,Water Recovery System
+Wi-F,
+XII,
+XLIX,
+XVV,X in the Velocity Vector
+Y-Z,
+Z-A,
+Z136.1,

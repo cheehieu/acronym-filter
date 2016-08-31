@@ -1,0 +1,187 @@
+3DES,Triple Data Encryption Standard
+AAA,Air Avionics Assembly
+AC,Alternating Current
+ACBM,Active Common Berthing Mechanism
+ACGIH,American Conference of Governmental Industrial Hygienists
+AE,Approach Ellipsoid
+AES,Advanced Encryption Standard
+AI,Approach Initiation
+ALARA,As Low As Reasonably Achievable
+AM,Axiom Module
+ANSI,American National Standards Institute
+AOS,Acquisition of Signal
+API,Application Programming Interface
+ATK,Alliant Techsystems
+ATU,Audio Terminal Units
+BEI,Biological Exposure Indices
+BER,Bit Error Rate
+C&W,Caution and Warning
+C2V2,Common Communications for Visiting Vehicles
+CBCS,Centerline Berthing Camera System
+CBM,Common Berthing Mechanism
+CG,Center of Gravity
+CMG,Control Moment Gyro
+COAS,Crew Optical Alignment Sight
+COMSEC,Communications Security
+COTS,Commercial Orbital Transportation Services
+CPU,Central Processing Unit
+DAC1,Design Analysis Cycle 1
+dBA,Decibel A-weighted
+dBW,Decibel Watt
+DC,Direct Current
+DCS,Decompression Sickness
+DDCU,DC-to-DC Converter Unit
+DRM,Design Reference Mission
+ECG,Electrocardiogram
+ECLSS,Environmental Control and Life Support System
+EEE,"Electrical, Electronic, and Electromechanical"
+EMI,Electromagnetic Interference
+EMU,Extravehicular Mobility Unit
+EOL,End of Life
+EPCE,Electrical Power Consuming Equipment
+ESA,European Space Agency
+ESD,Electrostatic Discharge
+EVA,Extravehicular Activity
+FIPS,Federal Information Processing Standards
+FM,Frequency Modulation
+FRGF,Flight-Releasable Grapple Fixture
+FSE,Flight Support Equipment
+GCR,Galactic Cosmic Ray
+GF,Grapple Fixture
+GFE,Government Furnished Equipment
+GHz,Gigahertz
+GN&C,Guidance Navigation and Control
+GNC,Guidance Navigation and Control
+GPS,Global Positioning System
+H2O,Water
+HIDH,Human Integration Design Handbook
+Hz-m2,Hertz-Meters-Squared
+ICD,Interface Control Document
+IDA,International Docking Adapter
+IEC,International Electrotechnical Commission
+IEEE,Institute of Electrical and Electronics Engineers
+IMV,Intermodule Ventilation
+INT,Internal
+IoT,Internet of Things
+IP,Internet Protocol
+IRD,Interface Requirements Document
+ISO,International Standards Organization
+ISPR,ISS Standard Payload Rack
+ISS,International Space Station
+ITCS,Internal Thermal Control System
+IVA,Intravehicular Activity
+JEM-EF,Japanese Experiment Module Exposed Facility
+JSC,Johnson Space Center
+JSL,Joint Station LAN
+KOS,Keep-Out Sphere
+LAN,Local Area Network
+LB,Local Bus
+LEE,Latching End Effector
+LiOH,Lithium Hydroxide
+LOC,Loss of Crew
+LOM,Loss of Mission
+LOS,Loss of Signal
+LPCM,Linear Pulse Code Modulation
+LSi,Linear Shift Invariant
+LTi,Linear Time Invariant
+LTL,Low Temperature Loop
+LV,Launch Vehicle
+LVLH,Local Vertical Local Horizontal
+MBS,Mobile Base System
+MBSU,Main Bus Switching Unit
+MCA,Major Constituent Analyzer
+MCC,Mission Control Center
+MCC-H,MCC-Houston
+MDM,Multiplexer/Demultiplexer
+MDP,Maximum Design Pressure
+MEM,Meteoroid Engineering Model
+MHz,Megahertz
+MIL-STD,Defense Standard
+MLE,Mid-deck Locker Equivalent
+MM,Micro-Meteoroid
+MMOD,Micro-Meteoroid and Orbital Debris
+MSS,Mobile Servicing System
+MTL,Medium Temperature Loop
+MUA,Materials Usage Agreement
+NASA,National Aeronautics and Space Administration
+NC,Noise Criterion
+NDS,NASA Docking System
+NIST,National Institute of Standards and Technology 
+NPDWR,National Primary Drinking Water Regulations
+NSA,National Security Agency
+NSPARS,Nonstandard Part Approval Request
+OD,Orbital Debris
+OLR,Outgoing Long Wave Radiation
+ORB,Orbital
+ORDEM,Orbital Debris Engineering Model
+ORU,Orbital Replacement Unit
+OSHA,Occupational Safety & Health Administration
+PBA,Portable Breathing Apparatus
+PCBM,Passive Common Berthing Mechanism
+PCM,Pulse Code Modulation
+PCS,Portable Computer System
+PDGF,Power Data Grapple Fixture
+PEL,Permissible Exposure Limits
+PFD,Power Flux Density
+PLR,Packet Loss Rate
+PMA,Pressurized Mating Adapter
+PMM,Permanent Multipurpose Module
+PNP,Probability of No Penetration
+POA,Payload Orbital replacement unit Accommodation
+POL,Point of Load
+ppCO2,Partial Pressure of Carbon Dioxide
+ppO2,Partial Pressure of Oxygen
+PTCS,Passive Thermal Control System
+PV,Photovoltaic
+PVGF,Power and Video Grapple Fixture
+R&R,Repair & Replace
+RCS,Reaction Control System
+REF,Reference
+REID,Risk of Exposure-Induced Death
+REV,Revision
+RF,Radio Frequency
+RH,Relative Humidity
+RMS,Root Mean Square
+RPCM,Remote Power Control Module
+RPOC,"Rendezvous, Proximity Operations and Capture"
+RPODU,"Rendezvous, Proximity Operations, Docking, and Undocking"
+RSS,Root-Sum-Square
+SAS,Space Adaptation Syndrome
+SCC,Space Components Coordination
+SCFM,Standard Cubic Feet per Minute
+SEE,Single Event Effects
+SEL,Single Event Latchup
+SEU,Single Event Upset
+SI,International System of Units
+SM,Service Module
+SMAC,Spacecraft Maximum Allowable Concentrations
+SPDM,Special Purpose Dexterous Manipulator
+SPE,Solar Particle Effect
+SPL,Sound Pressure Level
+SRS,Shock Response Spectrum
+SSP,Space Station Program
+SSRMS,Space Station Remote Manipulator System
+SSSR,Space to Space Station Radio
+SW,Software
+TBD,To Be Determined
+TBR,To Be Resolved
+TBS,To Be Supplied
+TCCS,Trace Contaminant Control Subassembly
+TCP,Transmission Control Protocol
+TCS,Thermal Control System
+TDMA,Time Division Multiple Access
+TIU,Terminal Interface Unit
+TLV,Threshold Limit Value
+TRRJ,Thermal Radiator Rotary Joint
+U.S,United States
+UDP,User Datagram Protocol
+UHF,Ultra High Frequency
+USOS,United States on Orbit Segment
+UV,Ultra Violet
+VDC,Volts Direct Current
+VM,Virtual Machine
+VSWR,Voltage Standing Wave Radio
+VUV,Very Ultra Violet
+VV,Visiting Vehicle
+WRS,Water Recovery System
+XVV,X in the Velocity Vector
