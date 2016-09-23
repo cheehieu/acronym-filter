@@ -9,13 +9,13 @@ $ pip install python-docx
 ```
 
 # Usage
-##General Usage:
+## General Usage:
 ```
 $ python acronym-filter INPUT_FILE.docx INPUT_DICT.csv
 ```
 Note: INPUT_DICT.csv is optional.
 
-##Test Example:
+## Test Example:
 ```
 $ python acronym-filter Prelim_Axiom_Reqmnts.docx axiom_glossary.csv
 ```
