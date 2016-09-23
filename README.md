@@ -8,6 +8,19 @@ $ pip install lxml
 $ pip install python-docx
 ```
 
+# Usage
+##General Usage:
+```
+$ python acronym-filter INPUT_FILE.docx INPUT_DICT.csv
+```
+Note: INPUT_DICT.csv is optional.
+
+##Test Example:
+```
+$ python acronym-filter Prelim_Axiom_Reqmnts.docx axiom_glossary.csv
+```
+The script should create two output files: "output_dict.csv" and "output_glossary.docx". The output dictionary is a new dictionary (appended from the imported dictionary, if applicable) that contains empty fields for the expanded forms of undefined acronyms. The output glossary is a MS Word document of the fully defined acronyms found.
+
 # Limitations
 * Acronyms must begin with a capital letter and end with another captial letter or number. Thus, lowercase abbreviations such as units (mm, dBA, etc.) will not be captured by the script. But ACRONYM_REGX can be modified to change this search pattern.
 * Long acronyms are not captured. A workaround was used because the IRD requirements were written using all caps. Change MAX_ACRO_LENGTH to tune.
